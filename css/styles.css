@@ -13,7 +13,11 @@ body {
   padding: 1em;
 }
 .cabecera{
+<<<<<<< HEAD
   background-color: pink;
+=======
+  background-color: blueviolet;
+>>>>>>> cabecera
   color: white;
   text-align: left;
   font-weight: bold;
