@@ -1,6 +1,13 @@
-body{
+body {
+	background-color: lightgrey;
+	color: aliceblue;
+	text-align: center;
+	font-size: 2rem;
+}
+.container {
   background-color: black;
-  color: aliceblue;
-  text-align: center;
-  font-size: 2rem;
+	border: 5px solid yellow;
+	max-width: 70%;
+  margin: auto;
+  padding: 1em;
 }
