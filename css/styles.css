@@ -4,11 +4,24 @@ body {
 	text-align: center;
 	font-size: 2rem;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .container {
   background-color: black;
-	border: 5px solid yellow;
+	border: 5px solid darkblue;
 	max-width: 70%;
   margin: auto;
   padding: 1em;
+}
+.cabecera{
+  background-color: darkblue;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+  font-size: 3rem;
+  padding: 1rem 2rem;
+}
+.subtitle{
+  font-size: 2rem;
+  font-weight: normal;
 }
