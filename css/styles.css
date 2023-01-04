@@ -1,12 +1,12 @@
 body {
-	background-color: lightgrey;
-	color: aliceblue;
+	background-color: black;
+	color: black;
 	text-align: center;
 	font-size: 2rem;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .container {
-  background-color: black;
+  background-color: whitesmoke;
 	border: 5px solid darkblue;
 	max-width: 70%;
   margin: auto;
@@ -14,7 +14,7 @@ body {
 }
 .cabecera{
   background-color: blueviolet;
-  color: white;
+  color: black;
   text-align: left;
   font-weight: bold;
   font-size: 3rem;
